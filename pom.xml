@@ -10,7 +10,7 @@
 
     <properties>
         <grpc.version>1.0.3</grpc.version><!-- CURRENT_GRPC_VERSION -->
-        <osdetectedclassifier>linux-x86_64</osdetectedclassifier>
+        <os.detected.classifier>linux-x86_64</os.detected.classifier>
     </properties>
 
     <dependencies>
